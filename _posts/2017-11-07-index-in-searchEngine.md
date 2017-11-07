@@ -5,7 +5,7 @@ date:   2017-11-07
 categories: main
 ---
 
-# What does mean "Index" in search engine?
+# What does "Index" mean in search engine?
 
 Index can be called the place for categorizing data, which is used to speed up the search process. Suppose that there is no index process, search engine would have to go through every document while searching the result. It can cause a lot of memory usage and the search time would be longer.
 
