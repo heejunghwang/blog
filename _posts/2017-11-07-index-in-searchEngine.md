@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  What does mean "Index" in search engine?
+title:  What does "Index" mean in search engine?
 date:   2017-11-07
 categories: main
 ---
