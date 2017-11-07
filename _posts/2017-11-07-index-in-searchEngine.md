@@ -26,4 +26,4 @@ There are a lot of designs or architectures for indexing data in every search en
 
 
 * you can check korean version here.
-http://tech.javacafe.io/2017/11/07/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-%EC%83%89%EC%9D%B8(Index)-%EC%86%8C%EA%B0%9C/
+<http://tech.javacafe.io/2017/11/07/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-%EC%83%89%EC%9D%B8(Index)-%EC%86%8C%EA%B0%9C/>
